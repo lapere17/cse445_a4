@@ -3,7 +3,7 @@
 	<xs:element name="Hotels">
 		<xs:complexType>
 			<xs:sequence>
-				<xs:element name="Hotel" maxOccurs="unbounded" use="optional">
+				<xs:element name="Hotel" maxOccurs="unbounded">
 					<xs:complexType>
 						<xs:sequence>
 							<xs:element name="Name" type="xs:string"/>
