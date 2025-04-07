@@ -1,0 +1,12 @@
+﻿<Hotel>
+	
+	<Name>Doubletree</Name>
+	<Name>Hilton</Name>
+	<Address NearestAirport="Phoenix Intl">
+		<Number>2000</Number>
+		<Street>N Central Ave</Street>
+		<City>Phoenix</City>
+		<State>AZ</State>
+		<Zip>85004</Zip>
+		<Rating>4.5</Rating>
+	</Hotel>
