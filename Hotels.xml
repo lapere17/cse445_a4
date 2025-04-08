@@ -14,4 +14,37 @@
 		</Address>
 		<Rating>4.2</Rating>
 	</Hotel>
+	<Hotel>
+	    	<Name>The Scott Resort &amp; Spa</Name>
+	    	<PhoneNumber>+1-480-555-8901</PhoneNumber>
+	    	<Address NearstAirport="Phoenix Sky Harbor">
+	      	<Number>9550</Number>
+	      	<Street>N Scottsdale Rd</Street>
+	      	<City>Scottsdale</City>
+	      	<State>Arizona</State>
+	      	<Zip>85254</Zip>
+   	 	</Address>
+  	</Hotel>
+	<Hotel Rating="4.3">
+		<Name>Sheraton San Francisco</Name>
+		<Phone>415-555-6789</Phone>
+		<Address NearstAirport="San Francisco International">
+			<Number>300</Number>
+			<Street>Powell St</Street>
+			<City>San Francisco</City>
+			<State>CA</State>
+			<Zip>94102</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+	    	<Name>Four Seasons Resort Scottsdale at Troon North</Name>
+	    	<PhoneNumber>+1-480-555-2345</PhoneNumber>
+	    	<Address NearstAirport="Scottsdale Airport">
+	      	<Number>11000</Number>
+	      	<Street>E Sunrise Blvd</Street>
+	      	<City>Scottsdale</City>
+	      	<State>Arizona</State>
+	      	<Zip>85254</Zip>
+	    	</Address>
+  </Hotel>
 </Hotels>
