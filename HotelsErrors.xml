@@ -2,7 +2,7 @@
 	
 	<Name>Doubletree</Name>
 	<Name>Hilton</Name>
-	<Address NearestAirport="Phoenix Intl">
+	<Address >
 		<Number>2000</Number>
 		<Street>N Central Ave</Street>
 		<City>Phoenix</City>
